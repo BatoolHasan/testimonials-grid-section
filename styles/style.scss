@@ -76,7 +76,7 @@ section.testimonials {
         -o-border-radius: 50%;
       }
     }
-    h1.testimonial__title {
+    h2.testimonial__title {
       font-size: 1.8rem;
       font-weight: $weight-semi-bold;
     }
@@ -167,7 +167,7 @@ section.testimonials {
   section.testimonials {
     grid-template-rows: 1fr 1fr 0.7fr;
     .testimonial {
-      h1.testimonial__title {
+      h2.testimonial__title {
         font-size: 1.6rem;
       }
       &:first-child {

@@ -85,7 +85,7 @@ section.testimonials .testimonial .user img {
   -o-border-radius: 50%;
 }
 
-section.testimonials .testimonial h1.testimonial__title {
+section.testimonials .testimonial h2.testimonial__title {
   font-size: 1.8rem;
   font-weight: 600;
 }
@@ -206,7 +206,7 @@ section.testimonials .testimonial:nth-child(5) img {
     -ms-grid-rows: 1fr 1fr 0.7fr;
         grid-template-rows: 1fr 1fr 0.7fr;
   }
-  section.testimonials .testimonial h1.testimonial__title {
+  section.testimonials .testimonial h2.testimonial__title {
     font-size: 1.6rem;
   }
   section.testimonials .testimonial:first-child {
